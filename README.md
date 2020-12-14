@@ -12,4 +12,4 @@ If students get to know what to expect upfront, they can make wiser decision and
 
 More details here: [Instructions](Instructions.pdf)
 
-Please go to AB_Final.ipynb for the rest of analysis!
+**Please go to AB_Final.ipynb for the rest of analysis!**
